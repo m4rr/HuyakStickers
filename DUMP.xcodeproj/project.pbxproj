@@ -317,6 +317,7 @@
 				03D3F6A81D54C6140041002F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03D3F6AA1D54C6140041002F /* Build configuration list for PBXNativeTarget "DUMP" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				03D3F6AC1D54C6140041002F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
